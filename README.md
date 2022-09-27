@@ -5,19 +5,17 @@
 ![preview](./.github/preview.png)
 
 
-[Acesse aqui](https://prdsilva80.github.io/clique-duplo-para-amar/)
+🔗  [Acesse aqui](https://prdsilva80.github.io/clique-duplo-para-amar/)
 
 ## 🛠️ Tecnologias
 
-- HTML
-- CSS
-- JAVASCRIPT
+![preview](./.github/html.svg) ![preview](./.github/css.svg) ![preview](./.github/javascript.svg) ![preview](./.github/git.svg)
 
 ## 👨‍🎓 O que aprendi
 
 - Entendi melhor como aplicar o css
 - No javascript usei novos comandos
 
-# 🔗 contato
+# 📧 contato
 
 - probertos717@gmail.com
